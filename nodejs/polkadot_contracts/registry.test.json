@@ -1,0 +1,10 @@
+{
+  "contracts": {
+    "crowdloan_lend": "14T4twjuZDtHvWxje3VMhpaJcxZLQZnRzmghgXkJneR8E7qE",
+    "crowdloan": "15u6yfEM8ecdjx7SseoXPU7QK8U37k8BatjvKY4aHfQRRkVS",
+    "deal": "12Qn6xvKprvwBjVK3iXnz4RFrXNjevsPUk25GTgHkXYSbmGB",
+    "escrow": "16dv85GzQjs4sY86sKnKJFx5wsJyQEg7V5xpYFuvo6puWfE8",
+    "marketplace": "13BviF7PXbomDYqNfc1AqjKB6RaDTnBS65nVoKhA6HuS1tyS"
+  },
+  "endpoint": "wss://rpc2.paseo.popnetwork.xyz"
+}

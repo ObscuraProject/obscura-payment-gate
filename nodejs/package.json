@@ -1,0 +1,17 @@
+{
+  "name": "payaka",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@polkadot/api": "^14.3.1",
+    "@polkadot/api-contract": "^14.3.1",
+    "@polkadot/keyring": "^13.2.3",
+    "@polkadot/util-crypto": "^13.2.3",
+    "bignumber.js": "^9.1.2",
+    "bitcoinjs-lib": "5.2.0",
+    "bn.js": "^5.2.1",
+    "minimist": "^1.2.8",
+    "optimist": "^0.5.2",
+    "web3": "^4.12.1"
+  }
+}

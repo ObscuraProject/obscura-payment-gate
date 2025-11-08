@@ -1,0 +1,5 @@
+package registry
+
+const (
+	TOCHKA_ESCROW_PAYMENT_ADDRESS = "0x692178f95bf99d9427c86f23a7b15623668a6ef2"
+)

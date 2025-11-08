@@ -1,0 +1,17 @@
+{
+  "bre_url": "http://192.168.88.243:3002/",
+  "btc_commission_wallet": "",
+  "cryptocompare_token": "",
+  "electrum_api_url": "3.14.15.92:50001",
+  "ethereum_api_url": "http://3.14.15.92:8545",
+  "etherscan_api_key": "",
+  "host": "127.0.0.1",
+  "monero_rpc_url": "http://3.14.15.92:8080/",
+  "monero_wallet_rpc_password": "",
+  "monero_wallet_rpc_url": "http://3.14.15.92:8083/",
+  "monero_wallet_rpc_user": "",
+  "pg_connection_string": "host=localhost user=postgres dbname=go_p sslmode=disable",
+  "port": 8083,
+  "tochka_escrow_payment_address": "",
+  "xmr_commission_wallet": ""
+}

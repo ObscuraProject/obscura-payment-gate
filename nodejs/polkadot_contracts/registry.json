@@ -1,0 +1,10 @@
+{
+  "contracts": {
+    "deal": "aTizMeQ68REdLu97s4z9xcmpfB1daBhXuKzitu379tFeFtA",
+    "escrow": "XwWowcJ7htRLYb9YYkt4eDE2pbqR9gUpqSUbnMYcW5Gqr4z",
+    "marketplace": "WGtiyN2X61bB4pHVT8TZFCQazbJCk3nscY3oSRrQUrA7BjF",
+    "crowdloan_lend": "Zcatd145r4J2oL7qPnrhBkivcgN8WnB19XymWMhXTVboKf8",
+    "crowdloan": "ZC9UmpuXgpJNUSRK3243jLEuNhQoN2gozwVNNSkHG9iPhhn"
+  },
+  "endpoint": "wss://rpc.astar.network"
+}
