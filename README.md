@@ -1,3 +1,15 @@
+<div align="center">
+  <h1><a href="Installation.md">Installation Guide</a></h1>
+</div>
+
+<div align="center">
+  <img src="logo.png" alt="Prestimos Obscura Logo">
+</div>
+
+<div align="center">
+  <h1>Obscura Free Market - Monero Marketplace Script</h1>
+</div>
+
 # Obscura Payment Gateway
 
 ![Bitcoin!](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
