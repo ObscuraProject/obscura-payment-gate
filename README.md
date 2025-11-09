@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="logo.png" alt="Prestimos Obscura Logo">
+  <img src="prestimosobscura.png" alt="Prestimos Obscura Logo">
 </div>
 
 <div align="center">
